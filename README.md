@@ -2,16 +2,21 @@ Localstatistics is a package which calculates the mean, standard deviation, maxi
 of a given numeric vector.
 
 The package can be installed from GitHub using:
+
 devtools::install_github("claudiamrk/localstatistics")
+
 then load the package:
+
 library(localstatistics)
 
 Example of use:
+
 The localstatistics package can be used as follows:
 The calculate_local_statistics() function calculates the mean, standard deviation, 
 minimum, and maximum of a numeric vector.
 
 calculate_local_statistics(c(1, 2, 3, 4, 5))
+
 Expected output:
 
 $mean

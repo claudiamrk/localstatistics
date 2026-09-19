@@ -1,0 +1,5 @@
+useDynLib(localstatistics, .registration = TRUE)
+importFrom(Rcpp, evalCpp)
+
+export(local_statistics)
+export(calculate_local_statistics)

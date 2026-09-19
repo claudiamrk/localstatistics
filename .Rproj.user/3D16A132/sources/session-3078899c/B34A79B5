@@ -1,0 +1,27 @@
+{
+    "id": "B34A79B5",
+    "path": "~/localstatistics/src/local_statistics.cpp",
+    "project_path": "src/local_statistics.cpp",
+    "type": "cpp",
+    "hash": "4249839129",
+    "contents": "",
+    "dirty": false,
+    "created": 1789607172543.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,49",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1789697678,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1789697678766,
+    "read_only": false,
+    "read_only_alternatives": []
+}
